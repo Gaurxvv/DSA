@@ -1,0 +1,1 @@
+cout << "Total no of element : " << number;
