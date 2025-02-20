@@ -16,6 +16,6 @@ This repository contains my **Data Structures and Algorithms (DSA)** code in **C
 ## 📚 Resources
 - **[GeeksforGeeks](https://www.geeksforgeeks.org/)** - DSA tutorials & problems.
 - **[LeetCode](https://leetcode.com/)** - Practice coding problems.
-- **[Complete C++ Placement DSA Course (https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1))**
+- **[Complete C++ Placement DSA Course](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=1)**
 ---
 Feel free to explore and learn 🚀
