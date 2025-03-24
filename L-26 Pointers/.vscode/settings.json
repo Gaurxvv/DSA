@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.jsx": "javascriptreact",
+    "iostream": "cpp"
+  }
+}
